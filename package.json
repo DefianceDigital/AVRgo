@@ -1,0 +1,41 @@
+{
+  "packages": [
+    {
+      "name": "AVRgo",
+      "maintainer": "Defiance Digital",
+      "websiteURL": "http://www.defiancedigital.us/",
+      "email": "brad@defiancedigital.us",
+      "help": {
+        "online": "http://www.defiancedigital.us/"
+      },
+      "platforms": [
+        {
+          "name": "AVRgo",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.defiancedigital.us/"
+          },
+          "url": "https://github.com/DefianceDigital/AVRgo/blob/master/AVRgo-1.0.0.zip",
+          "archiveFileName": "AVRgo-1.0.0.zip",
+          "checksum": "26B237DAE27AFB7454D5321657960D66",
+          "size": "(41621",
+          "boards": [
+            {"name": "AVRgo-Infinity"},
+			{"name": "AVRgo-Switch"},
+			{"name": "AVRgo-Vitality"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
