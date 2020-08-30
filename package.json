@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "AVRgo",
+      "name": "AVRgo Boards",
       "maintainer": "Defiance Digital",
       "websiteURL": "http://www.defiancedigital.us/",
       "email": "brad@defiancedigital.us",
@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/DefianceDigital/AVRgo/blob/master/AVRgo-1.0.0.zip",
           "archiveFileName": "AVRgo-1.0.0.zip",
-          "checksum": "3D306A263775232D6A0348FEEE737F49",
-          "size": "((45056",
+          "checksum": "72F23BB3A9A9979A6F3CFB8BC9663E79",
+          "size": "(((39647",
           "boards": [
             {"name": "AVRgo-Infinity"},
 			{"name": "AVRgo-Switch"},
