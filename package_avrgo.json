@@ -20,7 +20,7 @@
           "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-1.0.0.zip",
           "archiveFileName": "AVRgo-1.0.0.zip",
           "checksum": "BEBBDBD498A0E6662721D232033902AC",
-          "size": "40139",
+          "size": "147216",
           "boards": [
             {"name": "AVRgo-Infinity"},
 			{"name": "AVRgo-Switch"},
