@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "glowgummy",
+      "maintainer": "GlowGummy Team",
+      "websiteURL": "https://www.glowgummy.com/",
+      "email": "contact@glowgummy.com",
+      "help": {
+        "online": "http://glowgummy.com/"
+      },
+      "platforms": [
+        {
+          "name": "GlowGummy",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://glowgummy.com/"
+          },
+          "url": "https://github.com/glowgummy/board-support/raw/master/glowgummy-1.0.0.zip",
+          "archiveFileName": "glowgummy-1.0.0.zip",
+          "checksum": "SHA-256:32344f61b319aa5b8c75c4fb7a2ccf9ad729992f6760cfc2f8eeef9811797ef5",
+          "size": "558",
+          "boards": [
+            {"name": "GlowGummy"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
