@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "glowgummy",
+      "name": "test",
       "maintainer": "GlowGummy Team",
       "websiteURL": "https://www.glowgummy.com/",
       "email": "contact@glowgummy.com",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Test",
+          "name": "test",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
@@ -22,7 +22,7 @@
           "checksum": "SHA-256:32344f61b319aa5b8c75c4fb7a2ccf9ad729992f6760cfc2f8eeef9811797ef5",
           "size": "558",
           "boards": [
-            {"name": "Test"}
+            {"name": "test"}
           ],
           "toolsDependencies": [
             {
