@@ -22,7 +22,7 @@
           "checksum": "SHA-256:32344f61b319aa5b8c75c4fb7a2ccf9ad729992f6760cfc2f8eeef9811797ef5",
           "size": "558",
           "boards": [
-            {"name": "GlowGummy"}
+            {"name": "Test"}
           ],
           "toolsDependencies": [
             {
