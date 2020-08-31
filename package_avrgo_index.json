@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "AVRgo Boards & Programmers",
+      "name": "AVRgo Boards and Programmers",
       "maintainer": "Defiance Digital",
       "websiteURL": "http://www.defiancedigital.us/",
       "email": "brad@defiancedigital.us",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "AVRgo Boards & Programmers",
+          "name": "AVRgo Boards and Programmers",
           "architecture": "avr",
           "version": "1.0.2",
           "category": "Contributed",
