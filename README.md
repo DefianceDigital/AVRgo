@@ -1,1 +1,1 @@
-# AVRgo
+# AVRgo Boards and Programmers
