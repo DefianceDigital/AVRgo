@@ -16,7 +16,7 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
 - 16kB Ram
 - 4kB EEPROM
 #### AVRgo-Switch
-The AVRgo-Switch a powerful developement board with a selectable operating voltage. It can be run at either 3.3V or 5V with the flip of a switch, making itthe most versatile development board in existence. A short listing of features and specifications are as follows...
+The AVRgo-Switch is a powerful developement board with a selectable operating voltage. It can be run at either 3.3V or 5V with the flip of a switch, making itthe most versatile development board in existence. A short listing of features and specifications are as follows...
 - Breadboard-friendly design makes projects a breeze
 - Selectable 3.3V or 5V regulated operating voltage virtually eliminates any need for level-shifters
 - Up to 800mAh output current at either operating voltage
