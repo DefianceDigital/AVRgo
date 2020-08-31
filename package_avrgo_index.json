@@ -23,8 +23,8 @@
           "size": "40139",
           "boards": [
             {"name": "AVRgo-Infinity"},
-			{"name": "AVRgo-Switch"},
-			{"name": "AVRgo-Vitality"}
+	    {"name": "AVRgo-Switch"},
+	    {"name": "AVRgo-Vitality"}
           ],
           "toolsDependencies": [
           ]
