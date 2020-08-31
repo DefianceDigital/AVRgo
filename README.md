@@ -53,7 +53,7 @@ The AVRgo-SerialBTx is a bluetooth programmer/debugger that allows virtually any
 - Click the File tab
 - Scroll down and click Preferences
 - In the Additional Board Manager URLs textbox paste "https://raw.githubusercontent.com/DefianceDigital/AVRgo/master/package_avrgo_index.json" and press ok
-- Click the Tools tab and scroll down to Board and over to Boards Manager
+- Click the Tools tab and scroll down to Board and over to and select Boards Manager
 - In the drop-down box, select Contributed
 - Scroll down to AVRgo-Boards-and-Programmers and select Install
 - Click Close when installation is finished
