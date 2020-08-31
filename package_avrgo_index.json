@@ -12,13 +12,13 @@
         {
           "name": "AVRgo",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Contributed",
           "help": {
             "online": "http://www.defiancedigital.us/"
           },
-          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-1.0.0.zip",
-          "archiveFileName": "AVRgo-1.0.0.zip",
+          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-1.0.1.zip",
+          "archiveFileName": "AVRgo-1.0.1.zip",
           "checksum": "SHA-256:3D6CCB91FFC5B71ABFE544205FC9B0DB",
           "size": "41259",
           "boards": [
