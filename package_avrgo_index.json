@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "AVRgo Boards",
+      "name": "AVRgo Boards & Programmers",
       "maintainer": "Defiance Digital",
       "websiteURL": "http://www.defiancedigital.us/",
       "email": "brad@defiancedigital.us",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "AVRgo",
+          "name": "AVRgo Boards & Programmers",
           "architecture": "avr",
           "version": "1.0.2",
           "category": "Contributed",
@@ -24,7 +24,8 @@
           "boards": [
             {"name": "AVRgo-Infinity"},
 	    {"name": "AVRgo-Switch"},
-	    {"name": "AVRgo-Vitality"}
+	    {"name": "AVRgo-Vitality"},
+	    {"name": "AVRgo-SerialBTx"}
           ],
           "toolsDependencies": [
           ]
