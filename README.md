@@ -42,3 +42,8 @@ The AVRgo-Switch is designed for low-drain battery powered applications, uch as 
 
 ## AVRgo Programmers
 #### AVRgo-SerialBTx
+The AVRgo-SerialBTx is a bluetooth programmer/debugger that allows virtually any Arduino Compatible Development Board to essentially become an AVRgo. A short listing of features and specifications are as follows...
+- Ability to upload sketches via bluetooth to virtually any AVR based development board with a serial bootloader
+- Ability to run Serial Monitor wirelessly makes debugging a breeze whether using a computer, smartphone or tablet
+- 3.3V operating voltage with 5V tolerant TX/RX pins
+- Simple to setup and operate
