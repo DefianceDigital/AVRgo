@@ -52,7 +52,7 @@ The AVRgo-SerialBTx is a bluetooth programmer/debugger that allows virtually any
 - Open the Arduino IDE
 - Click the File tab
 - Scroll down and click Preferences
-- In the Additional Board Manager URLs textbox paste ___ and press ok
+- In the Additional Board Manager URLs textbox paste "https://raw.githubusercontent.com/DefianceDigital/AVRgo/master/package_avrgo_index.json" and press ok
 - Click the Tools tab and scroll down to Board and over to Boards Manager
 - In the drop-down box, select Contributed
 - Scroll down to AVRgo-Boards-and-Programmers and select Install
