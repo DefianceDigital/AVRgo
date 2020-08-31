@@ -10,3 +10,8 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
 - Up to 200mA output current when powered by battery and 700mA when powered by the 5V USB port
 - Built in Micro-SD card slot 
 - Dual Bootloader allows for uploading sketches via bluetooth or by loading them onto a Micro-SD card.
+- ATMEGA1284P AVR
+- 8mHz Clock
+- 120kB Flash Memory
+- 16kB Ram
+- 4kB EEPROM
