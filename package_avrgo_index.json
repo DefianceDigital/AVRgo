@@ -12,20 +12,20 @@
         {
           "name": "AVRgo Boards and Programmers",
           "architecture": "avr",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "category": "Contributed",
           "help": {
             "online": "http://www.defiancedigital.us/"
           },
-          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-1.0.2.zip",
-          "archiveFileName": "AVRgo-1.0.2.zip",
-          "checksum": "SHA-256:A9C250C1FB47807254E13FC5B9F81039F530130E4BA742A0890DD92FF62BB821",
-          "size": "40139",
+          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-1.0.3.zip",
+          "archiveFileName": "AVRgo-1.0.3.zip",
+          "checksum": "SHA-256:F051DF3E562EBBC4EBE17C7132AD819C15FF21F1E0E0B6AF8F811BDA1B5D5384",
+          "size": "40964",
           "boards": [
             {"name": "AVRgo-Infinity"},
 	    {"name": "AVRgo-Switch"},
 	    {"name": "AVRgo-Vitality"},
-	    {"name": "AVRgo-SerialBTx"}
+	    {"name": "AVRgo-SerialBTx External Programmer"}
           ],
           "toolsDependencies": [
           ]
