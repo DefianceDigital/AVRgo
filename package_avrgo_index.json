@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-1.0.5.zip",
           "archiveFileName": "AVRgo-1.0.5.zip",
-          "checksum": "SHA-256:862577DDB2D34DF5BE361D6F6421AB26305F8974221A66B21A160355C3DB1C84",
-          "size": "41158",
+          "checksum": "SHA-256:4D2424D2835957A0BE02DD435073F6B7D4D59BDF95D97ED56060792B79F37BA9",
+          "size": "41145",
           "boards": [
             {"name": "AVRgo-Infinity"},
 	    {"name": "AVRgo-Switch"},
