@@ -28,11 +28,13 @@ The AVRgo-Switch is a powerful developement board with a selectable operating vo
 - 16kB Ram
 - 4kB EEPROM
 #### AVRgo-Vitality
-The AVRgo-Vitality is designed for low-drain battery powered applications, such as wearables. Can be used with CR2032(recommended) or ML2032(at reduced current & capacity) coin cell batteries. A short listing of features and specifications are as follows...
-- Absolute maximum output current: 100mA
-- Maximum recommended output current: 20mA (CR2032)
-- The ultra-low self-discharge rate of coin cells and ultra-low sleep current of the AVR allows your project to run up to 10 years or longer on a single battery
-- Low-battery indicator light consumes ultra-low current when enabled and no current when disabled
+The AVRgo-Vitality is designed for non-rechargeable battery powered applications with a long service life (up to 10+ years). As most 3.3V sensors and modules have an operating voltage of 1.8-3.6V, no regulator is required. A short listing of features and specifications are as follows...
+- Uses 2 AAA batteries
+- Operating Voltage: 1.8-3.2V (direct battery voltage)
+- Battery Capacity: 1000mAh (typical)
+- Maximum recommended output current: 500mA
+- Power consumption down to nanoAmp scale
+- Low-battery indicator light consumes ultra-low current when enabled(default) and no current when disabled
 - Bootloader allows sketches to be uploaded/debugged via on-board bluetooth
 - Uses ATMEGA328PB AVR
 - 8mHz Clock
