@@ -28,13 +28,13 @@ The AVRgo-Switch is a powerful developement board with a selectable operating vo
 - 16kB Ram
 - 4kB EEPROM
 #### AVRgo-Vitality
-The AVRgo-Vitality is designed for non-rechargeable battery powered applications with a long service life (up to 10+ years). As most 3.3V sensors and modules have an operating voltage of 1.8-3.6V, no regulator is required. A short listing of features and specifications are as follows...
-- Comes in Stand-alone(female headers) or Breadboard(XL male pins) packages
-- Uses 2 AAA batteries
-- Operating Voltage: 1.8-3.2V(direct battery voltage)
+The AVRgo-Vitality is designed for non-rechargeable battery powered applications, especially those with a long service life. A short listing of features and specifications are as follows...
+- Comes in Stand-Alone(female headers) or Breadboard(XL male pins) packages
+- Powered by 2 AAA batteries
+- Operating Voltage: 3.3V regulated output(default) or 1.8-3.2V direct battery voltage(boost disabled)
 - Battery Capacity: 1000mAh(typical)
 - Maximum recommended output current: 500mA
-- Power consumption down to nanoAmp scale
+- Capable of operating on as little as 200nA
 - Low-battery indicator light consumes ultra-low current when enabled(default) and no current when disabled
 - Bootloader allows sketches to be uploaded/debugged via on-board bluetooth
 - Uses ATMEGA328PB AVR
