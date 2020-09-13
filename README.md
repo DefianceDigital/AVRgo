@@ -35,7 +35,7 @@ The AVRgo-Vitality is designed for non-rechargeable battery powered applications
 - Battery Capacity: 1000mAh(typical)
 - Maximum recommended output current: 500mA
 - Capable of operating on as little as 200nA
-- Low-battery indicator light consumes ultra-low current when enabled(default) and no current when disabled
+- Low-battery indicator light consumes ultra-low current when enabled(default), and consumes no current when disabled
 - Bootloader allows sketches to be uploaded/debugged via on-board bluetooth
 - Uses ATMEGA328PB AVR
 - 8mHz Clock
