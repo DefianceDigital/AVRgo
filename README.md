@@ -31,7 +31,7 @@ The AVRgo-Switch is a powerful developement board with a selectable operating vo
 The AVRgo-Vitality is designed for non-rechargeable battery powered applications, especially those with a long service life. A short listing of features and specifications are as follows...
 - Comes in Stand-Alone(female headers) or Breadboard(XL male pins) packages
 - Powered by 2 AAA batteries
-- Operating Voltage: 3.3V regulated output(default) or 1.8-3.2V direct battery voltage(boost disabled)
+- Operating Voltage: 3.3V regulated output(boost enabled) or 1.8-3.2V direct battery voltage(default)
 - Battery Capacity: 1000mAh(typical)
 - Maximum recommended output current: 500mA
 - Capable of operating on as little as 200nA
