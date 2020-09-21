@@ -22,7 +22,7 @@
           "checksum": "SHA-256:C6ACE2EE2AF1ABD85F693FB5E25554D528381E05772484CF503CCA556E8833DA",
           "size": "33480",
           "boards": [
-            {"name": "AVRgo-Infinity"},
+            {"name": "AVRgo-Infinity"}
           ],
           "toolsDependencies": [
           ]
