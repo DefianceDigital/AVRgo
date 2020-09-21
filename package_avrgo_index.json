@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.0.0.zip",
           "archiveFileName": "AVRgo-2.0.0.zip",
-          "checksum": "SHA-256:094A6D031EAD40F33B2F4CD4D337FAD8996D53658B956AC3FB56583521E078CB",
-          "size": "33240",
+          "checksum": "SHA-256:C6ACE2EE2AF1ABD85F693FB5E25554D528381E05772484CF503CCA556E8833DA",
+          "size": "33480",
           "boards": [
             {"name": "AVRgo-Infinity"},
           ],
