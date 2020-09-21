@@ -15,33 +15,6 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
 - 120kB Flash Memory
 - 16kB Ram
 - 4kB EEPROM
-#### AVRgo-Switch
-The AVRgo-Switch is a powerful developement board with a selectable operating voltage. It can be run at either 3.3V or 5V with the flip of a switch, making it one of the most versatile development board in existence. A short listing of features and specifications are as follows...
-- Breadboard-friendly design makes projects a breeze
-- Selectable 3.3V or 5V regulated operating voltage virtually eliminates any need for level-shifters to communicate with other boards or sensors
-- Up to 800mA output current at either operating voltage
-- Built in Micro-SD card slot 
-- Dual Bootloader allows for uploading/debugging sketches via on-board bluetooth or Micro-SD card.
-- Uses ATMEGA1284P AVR
-- 8mHz Clock
-- 120kB Flash Memory
-- 16kB Ram
-- 4kB EEPROM
-#### AVRgo-Vitality
-The AVRgo-Vitality is designed for non-rechargeable battery powered applications, especially those with a long service life. A short listing of features and specifications are as follows...
-- Comes in Stand-Alone(right-angle pins) or Breadboard(XL male pins) packages
-- Powered by 2 AAA batteries
-- Operating Voltage: 3.3V regulated output(default) or 1.8-3.2V direct battery voltage(boost disabled)
-- Battery Capacity: 1000mAh(typical)
-- Maximum recommended output current: 500mA
-- Capable of operating on as little as 200nA
-- Low-battery indicator light consumes ultra-low current when enabled(default), and consumes no current when disabled
-- Bootloader allows sketches to be uploaded/debugged via on-board bluetooth
-- Uses ATMEGA328PB AVR
-- 8mHz Clock
-- 30kB Flash Memory
-- 2kB Ram
-- 1kB EEPROM
 
 ## AVRgo Programmers
 #### AVRgo-SerialBTx
