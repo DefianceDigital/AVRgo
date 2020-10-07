@@ -12,15 +12,15 @@
         {
           "name": "AVRgo-Boards-and-Programmers",
           "architecture": "avr",
-          "version": "2.0.1",
+          "version": "2.0.2",
           "category": "Contributed",
           "help": {
             "online": "http://www.defiancedigital.us/"
           },
-          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.0.1.zip",
-          "archiveFileName": "AVRgo-2.0.1.zip",
-          "checksum": "SHA-256:88F1EB22A82924F65EF4E1A2E954C13743259DBAB2AF55E855CE40711ADF8FE7",
-          "size": "33677",
+          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.0.2.zip",
+          "archiveFileName": "AVRgo-2.0.2.zip",
+          "checksum": "SHA-256:8B213C8E9E829A86B495449F8F0018B1E76E170AB3583BB53032E67783151AB3",
+          "size": "36273",
           "boards": [
             {"name": "AVRgo-Infinity"}
           ],
