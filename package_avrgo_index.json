@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "AVRgo-Boards-and-Programmers",
+      "name": "AVRgo",
       "maintainer": "Defiance Digital",
       "websiteURL": "http://www.defiancedigital.us/",
       "email": "brad@defiancedigital.us",
@@ -10,17 +10,17 @@
       },
       "platforms": [
         {
-          "name": "AVRgo-Boards-and-Programmers",
+          "name": "AVRgo",
           "architecture": "avr",
-          "version": "2.0.2",
+          "version": "2.0.4",
           "category": "Contributed",
           "help": {
             "online": "http://www.defiancedigital.us/"
           },
-          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.0.2.zip",
-          "archiveFileName": "AVRgo-2.0.2.zip",
-          "checksum": "SHA-256:8B213C8E9E829A86B495449F8F0018B1E76E170AB3583BB53032E67783151AB3",
-          "size": "36273",
+          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.0.4.zip",
+          "archiveFileName": "AVRgo-2.0.4.zip",
+          "checksum": "SHA-256:B11BA9D4560868B50BFD13E73562B75181F0654816A60B92370BD27A3168C1EE",
+          "size": "36556",
           "boards": [
             {"name": "AVRgo-Infinity"}
           ],
