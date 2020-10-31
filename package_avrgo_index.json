@@ -3,7 +3,7 @@
     {
       "name": "AVRgo",
       "maintainer": "Defiance Digital",
-      "websiteURL": "https://github.com/DefianceDigital/AVRgo",
+      "websiteURL": "http://www.defiancedigital.us/",
       "email": "brad@defiancedigital.us",
       "help": {
         "online": "https://github.com/DefianceDigital/AVRgo"
@@ -15,7 +15,7 @@
           "version": "2.0.9",
           "category": "Contributed",
           "help": {
-            "online": "http://www.defiancedigital.us/"
+            "online": "https://github.com/DefianceDigital/AVRgo"
           },
           "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.0.9.zip",
           "archiveFileName": "AVRgo-2.0.9.zip",
