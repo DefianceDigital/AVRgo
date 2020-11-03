@@ -4,13 +4,16 @@ AVRgo is a family of boards designed for on-the-go and in-the-field applications
 ## AVRgo Boards
 #### AVRgo-Infinity
 The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered by its internal LiPo Battery or through the 5V USB port. A short listing of features and specifications are as follows...
-- Internal 1800mAh LiPo battery with built-in charger
+- More on-board features, along with an extensive library allows for much greater capabilies than other developement boards, while requiring much less effort and/or experience.
+- The internal 1800mAh LiPo battery with built-in charger provides more than enough power for most projects, wherever you need it.
 - Triple Battery Protection Circuit allows for safe and optimal use of LiPo battery by even the most inexperienced users.
   - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
-  - 900/1800mA Polyfuse disconnects the battery if current gets too high (such as a short to ground) and can be reset by turning the board off for a few seconds.
-  - Safe Storage Zener diode prevents the battery from being stored at full charge for more than 48 hours, by slowly draining current if voltage is above 3.8V(±2%)
+  - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
+  - Safe Storage Zener diode prevents the battery from being maintained above the Safe Voltage Window (3.3-3.8V) for more than 48 hours, by slowly draining current when voltage is above 3.8V (±2%).
+- Self-Discharge rate of 1% per month when voltage is within the Safe Voltage Window
 - 3.3V regulated operating voltage.
-- Up to 200mA output current when powered by battery and 700mA when plugged in
+- Sleep current as low as 0.2uA
+- Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
 - Built in Micro-SD card slot 
 - Dual Bootloader allows for uploading/debugging sketches via on-board bluetooth or Micro-SD card.
 - Uses ATMEGA1284P AVR
