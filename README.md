@@ -10,14 +10,13 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
   - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
   - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
   - Safe Storage Zener diode prevents the battery from being maintained above the Safe Voltage Window (3.3-3.8V) for more than 48 hours, by slowly draining current when voltage is above 3.8V (±2%).
-- Self-Discharge rate of 1% per month when voltage is within the Safe Voltage Window
+- Self-Discharge rate of 1% per month when within the Safe Voltage Window
 - 3.3V regulated operating voltage.
-- Sleep current as low as 0.2uA
 - Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
-- Built in Micro-SD card slot 
+- Sleep current as low as 0.2uA
+- Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
 - Dual Bootloader allows for uploading/debugging sketches via on-board bluetooth or Micro-SD card.
-- Uses ATMEGA1284P AVR
-- 8mHz Clock
+- 8mHz internal clock with convenient external clock capabilities
 - 120kB Flash Memory
 - 16kB Ram
 - 4kB EEPROM
