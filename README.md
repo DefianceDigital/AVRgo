@@ -9,8 +9,8 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
 - Triple Battery Protection Circuit allows for safe and optimal use of LiPo battery by even the most inexperienced users.
   - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
   - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
-  - Safe Storage Zener diode prevents the battery from being maintained above the Safe Voltage Window (3.3-3.8V) for more than 48 hours, by slowly draining current when voltage is above 3.8V (±2%).
-- Self-Discharge rate of 1% per month when within the Safe Voltage Window
+  - Safe Storage Zener diode prevents the battery from being maintained above the Safe Storage Window (3.3-3.8V) for more than 48 hours, by slowly draining current when voltage is above 3.8V (±2%).
+- Self-Discharge rate of 1% per month when within the Safe Storage Window
 - 3.3V regulated operating voltage.
 - Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
 - Sleep current as low as 0.2uA
