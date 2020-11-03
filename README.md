@@ -5,7 +5,10 @@ AVRgo is a family of boards designed for on-the-go and in-the-field applications
 #### AVRgo-Infinity
 The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered by its internal LiPo Battery or through the 5V USB port. A short listing of features and specifications are as follows...
 - Internal 1800mAh LiPo battery with built-in charger
-- Dual low-voltage cutoff circuits prevent battery damage due to over-discharge
+- Triple Battery Protection Circuit allows safe and optimal use of LiPo battery by even the most inexperienced users.
+  - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
+  - 900/1800mA Polyfuse disconnects battery if current gets too high (such as a short to ground) and can be reset by turning the board off for a few seconds.
+  - Safe Storage Zener diode ensures the battery cannot be stored at full charge for more than 2 weeks by slowly draining current if voltage is above 3.85V
 - 3.3V regulated operating voltage.
 - Up to 200mA output current when powered by battery and 700mA when plugged in
 - Built in Micro-SD card slot 
