@@ -4,6 +4,9 @@ AVRgo is a family of boards designed for on-the-go and in-the-field applications
 ## AVRgo Boards
 #### AVRgo-Infinity
 The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered by its internal LiPo Battery or through the 5V USB port. A short listing of features and specifications are as follows...
+- Dual Bootloader allows for uploading sketches via Bluetooth or Micro-SD card.
+- Dual mode Bluetooth broadcasts both SPP and BLE, which can be connected to different devices simultaneuosly.
+- Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
 - More on-board features, along with an extensive library allows for much greater capabilies than other developement boards, while requiring much less effort and/or experience.
 - The internal 1800mAh LiPo battery with built-in charger provides more than enough power for most projects, wherever you need it.
 - Triple Battery Protection Circuit allows for safe and optimal use of LiPo battery by even the most inexperienced users.
@@ -14,8 +17,6 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
 - 3.3V regulated operating voltage.
 - Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
 - Sleep current as low as 0.2uA
-- Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
-- Dual Bootloader allows for uploading/debugging sketches via on-board bluetooth or Micro-SD card.
 - 8mHz internal clock with convenient external clock capabilities
 - 120kB Flash Memory
 - 16kB Ram
