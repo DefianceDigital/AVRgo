@@ -4,6 +4,13 @@ AVRgo is a family of boards designed for on-the-go and in-the-field applications
 ## AVRgo Boards
 #### AVRgo-Infinity
 The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered by its internal LiPo Battery or through the 5V USB port. A short listing of features and specifications are as follows...
+- 3.3V regulated operating voltage.
+- Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
+- Sleep current as low as 0.2uA
+- 8mHz internal clock with convenient external clock capabilities
+- 120kB Flash Memory
+- 16kB Ram
+- 4kB EEPROM
 - Dual Bootloader allows for uploading sketches via Micro-SD Card, or directly from the Arduino IDE over Bluetooth.
 - Dual mode Bluetooth broadcasts both SPP and BLE, which can be connected to different devices simultaneuosly.
 - Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
@@ -13,17 +20,10 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
 - Triple Battery Protection Circuit allows for safe and optimal use of the LiPo battery by even the most inexperienced users.
   - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
   - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
-  - Safe Storage Zener diode automatically prevents the battery from being maintained above the Safe Storage Window (3.3-3.8V) for more than 48 hours, by slowly draining current when voltage is above 3.8V (±2%).
+  - Safe Storage Zener diode automatically prevents the battery from being maintained above the Safe Storage Window (3.3-3.8V) for more than 48 hours (when not plugged in), by slowly draining current when voltage is above 3.8V (±2%).
 - LiPo Self-Discharge rate is less than 1% per month when within the Safe Storage Window
 - Integrated charging LEDs let you know when the battery is fully charged
-- 3.3V regulated operating voltage.
-- Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
-- Sleep current as low as 0.2uA
-- Supports disconnecting the internal LiPo battery and powering directly from Micro-USB port
-- 8mHz internal clock with convenient external clock capabilities
-- 120kB Flash Memory
-- 16kB Ram
-- 4kB EEPROM
+
 
 ## AVRgo Programmers
 #### AVRgo-SerialBTx
