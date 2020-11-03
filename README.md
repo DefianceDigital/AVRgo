@@ -8,7 +8,7 @@ The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered 
 - Triple Battery Protection Circuit allows for safe and optimal use of LiPo battery by even the most inexperienced users.
   - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
   - 900/1800mA Polyfuse disconnects the battery if current gets too high (such as a short to ground) and can be reset by turning the board off for a few seconds.
-  - Safe Storage Zener diode prevents the battery from being stored at full charge for more than 48 hours, by slowly draining current if voltage is above 3.7-3.8V
+  - Safe Storage Zener diode prevents the battery from being stored at full charge for more than 48 hours, by slowly draining current if voltage is above 3.8V(±2%)
 - 3.3V regulated operating voltage.
 - Up to 200mA output current when powered by battery and 700mA when plugged in
 - Built in Micro-SD card slot 
