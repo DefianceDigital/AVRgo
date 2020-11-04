@@ -3,7 +3,7 @@ AVRgo is a family of boards designed for on-the-go and in-the-field applications
 
 ## AVRgo Boards
 #### AVRgo-Infinity
-The AVRgo-Infinity originated with two primary goals. To be completely cordless and to be a board built with EVERYBODY in mind. It's not a design for beginners or for advanced users. It's a design that grows with you, from beginner to advanced user and can be picked up anywhere in between. 
+The AVRgo-Infinity originated with two primary goals. To be completely cordless and to be a board built with EVERYBODY in mind. It's not a design for beginners or for advanced users. It's a design that grows with you, from beginner to advanced user and can be picked up anywhere in between. Whether your're designing the next wearable device, an AVR-based handheld gaming system, or just learning how to turn on LEDs; The AVRgo-Infinity is designed for you. The library we developed to accompany this board is extensive, and it makes complicated tasks incredibly easy.
 - Dual Bootloader allows for uploading sketches via Micro-SD Card, or directly from the Arduino IDE over Bluetooth.
 - The Bluetooth Electronics App allows you to control your AVRgo-Infinity and select sketches via any android device (examples provided).
 - The ArduinoDroid App allows you to compile and upload sketches directly from any Android device (under development)
@@ -20,7 +20,7 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 - Integrated charging LEDs let you know when the battery is fully charged
 - 3.3V regulated operating voltage.
 - Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
-- Sleep current as low as 0.2uA
+- Sleep current as low as 1uA (most of which is the battery protection circuit)
 - 8mHz internal clock with convenient external clock capabilities
 - 120kB Flash Memory
 - 16kB Ram
