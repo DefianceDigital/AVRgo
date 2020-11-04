@@ -3,7 +3,7 @@ AVRgo is a family of boards designed for on-the-go and in-the-field applications
 
 ## AVRgo Boards
 #### AVRgo-Infinity
-The AVRgo-Infinity is the flagship board of the AVRgo family. It can be powered by its internal LiPo Battery or through the 5V USB port. A short listing of features and specifications are as follows...
+The AVRgo-Infinity originated with two primary goals. To be completely cordless and to be a board built with EVERYBODY in mind. It's not a design for beginners or for advanced users. It's a design that grows with you, from beginner to advanced user and can be picked up anywhere in between. 
 - Dual Bootloader allows for uploading sketches via Micro-SD Card, or directly from the Arduino IDE over Bluetooth.
 - The Bluetooth Electronics App allows you to control your AVRgo-Infinity and select sketches via any android device (examples provided).
 - The ArduinoDroid App allows you to compile and upload sketches directly from any Android device (under development)
