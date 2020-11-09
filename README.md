@@ -21,6 +21,7 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 - 3.3V regulated operating voltage.
 - Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
 - Sleep current as low as 1uA (most of which is the battery protection circuit)
+- JTAG funtionality (fuse set to disable by default)
 - 8mHz internal clock with convenient external clock capabilities
 - 120kB Flash Memory
 - 16kB Ram
