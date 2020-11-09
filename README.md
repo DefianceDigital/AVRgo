@@ -32,15 +32,15 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 The AVRgo-SerialBTx is a bluetooth programmer/debugger that allows virtually any Arduino Compatible Development Board to essentially become an AVRgo. A short listing of features and specifications are as follows...
 - Ability to upload sketches via bluetooth to virtually any AVR based development board with a serial bootloader, using a computer, phone or tablet
 - Ability to run Serial Monitor wirelessly, makes debugging a breeze
-- 3.3V operating voltage with 5V tolerant TX/RX pins
+- Supports 3.3V of 5V operating voltage
 - Simple to setup and operate
 
-# Installing AVRgo Boards and Programmers in the Arduino IDE
+# Installing AVRgo in the Arduino IDE
 - Open the Arduino IDE
 - Click the File tab
 - Scroll down and click Preferences
 - In the Additional Board Manager URLs textbox paste "https://raw.githubusercontent.com/DefianceDigital/AVRgo/master/package_avrgo_index.json" and press ok
 - Click the Tools tab and scroll down to Board and over to and select Boards Manager
 - In the drop-down box, select Contributed
-- Scroll down to AVRgo-Boards-and-Programmers and select Install
+- Scroll down to AVRgo and select Install
 - Click Close when installation is finished
