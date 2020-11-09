@@ -7,7 +7,7 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 - Dual Bootloader allows for uploading sketches via Micro-SD Card, or directly from the Arduino IDE over Bluetooth.
 - The Bluetooth Electronics App allows you to control your AVRgo-Infinity and select sketches via any android device (examples provided).
 - The ArduinoDroid App allows you to compile and upload sketches directly from any Android device (under development)
-- Dual mode Bluetooth broadcasts both SPP and BLE, which can be connected to different devices simultaneuosly.
+- Dual mode Bluetooth broadcasts both SPP and BLE signals, which can be connected to different devices simultaneuosly.
 - Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
 - Integrated RGB LED allows for a customized look, as well as displaying information visually
 - More on-board features, along with an extensive library allows for much greater capabilies than other developement boards, while requiring much less effort and/or experience.
