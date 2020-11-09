@@ -11,7 +11,7 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 - Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
 - Integrated RGB LED allows for a customized look, as well as displaying information visually
 - More on-board features, along with an extensive library allows for much greater capabilies than other developement boards, while requiring much less effort and/or experience.
-- The internal (1800mAh-Littlefoot Package/6000mAh-Bigfoot Package) LiPo battery with built-in charger provides more than enough power for most projects, wherever you need it.
+- The internal LiPo battery with built-in charger provides more than enough power for most projects, wherever you need it.
 - Triple Battery Protection Circuit allows for safe and optimal use of the LiPo battery by even the most inexperienced users.
   - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
   - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
