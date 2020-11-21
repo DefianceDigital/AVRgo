@@ -1,11 +1,8 @@
-/*# AVRgo Boards and Programmers
-//AVRgo is a family of boards designed for on-the-go and in-the-field applications. Their bluetooth capability allows //sketches to be uploaded and debugged via a multitude of devices without using wires, eg computer, smartphone, tablet, etc. //The AVRgo-SerialBTx is a bluetooth programmer/debugger designed to give these capabilities to virtually all Arduino //compatible AVRs that use a serial bootloader.*/
-
 ## AVRgo Boards
 #### AVRgo-Infinity
 *Anticipated Launch Date: February 12th, 2021*
 
-The AVRgo-Infinity originated with two primary goals. To be completely cordless and to be a board built with EVERYBODY in mind. It's not a design for beginners or for advanced users. It's a design that grows with you, from beginner to advanced user and can be picked up anywhere in between. Whether your're designing the next wearable device, an AVR-based handheld gaming system, or just learning how to turn on LEDs; The AVRgo-Infinity is designed for you. The library we developed to accompany this board is extensive, and it makes complicated tasks incredibly easy.
+The AVRgo-Infinity originated with one primary goal: To be a development board that can go anywhere, do anything, and be used by anybody. Whether your're creating the next hit wearable, an AVR-based handheld gaming system, a stationary project, or just learning how to turn on LEDs; this board was designd for you. The library we developed to accompany this board is extensive, and it makes complicated tasks incredibly easy. It is the virtually indestructable Swiss Army Knife of development boards. It's the AVRgo-Infinity.
 - Dual Bootloader allows for uploading sketches via Micro-SD Card, or directly from the Arduino IDE over Bluetooth.
 - The Bluetooth Electronics App allows you to control your AVRgo-Infinity and select sketches via any android device (examples provided).
 - The ArduinoDroid App allows you to compile and upload sketches directly from any Android device (under development)
