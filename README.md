@@ -38,12 +38,16 @@ Anticipated Release Date: February 2022
 #### AVRgo-SerialBTx
 *Anticipated Launch Date: February 12th, 2021*
 
-The AVRgo-SerialBTx is a bluetooth programmer/debugger that is essentially . A short listing of features and specifications are as follows...
-- Ability to upload sketches via bluetooth to virtually any AVR based development board with a serial bootloader, using a computer, phone or tablet
+The AVRgo-SerialBTx is the Bluetooth portion of the AVRgo-Infinity, but in it's own high-performance module. Not only can it wirelessly upload sketches to virtually any Arduino with a serial bootloader, but it can do just about anything you could ever want from a Bluetooth module. We worked very dilligently to be able to say with confidence that this is the best all-around Bluetooth module on the market. A short listing of features and specifications are as follows...
 - Reset pin automatically resets the target board upon connecting/uploading
-- Ability to run Serial Monitor wirelessly, makes debugging a breeze
-- Supports 3.3V or 5V operating voltage
 - Simple to setup and operate
+- Communication Interface: UART (serial)
+- Operating Mode: Dual-Mode (SPP/BLE)
+- Role: Master/Slave
+- Working Voltage: 3.3V-5V
+- Maximum Range: 40 meters
+- Operating Current: 15mA
+- Sleep Current: 25nA
 
 # Installing AVRgo in the Arduino IDE
 - Open the Arduino IDE
