@@ -34,7 +34,7 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 Anticipated Release Date: February 2022
 - All the same features of the AVRgo-Infinity, but 4X faster and double the flash
 
-## AVRgo Programmers
+## AVRgo Expansion Modules
 #### AVRgo-SerialBTx
 The AVRgo-SerialBTx is a bluetooth programmer/debugger that allows virtually any Arduino Compatible Development Board to essentially become an AVRgo. A short listing of features and specifications are as follows...
 - Ability to upload sketches via bluetooth to virtually any AVR based development board with a serial bootloader, using a computer, phone or tablet
