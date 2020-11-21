@@ -51,7 +51,7 @@ The AVRgo-SerialBTx is the Bluetooth portion of the AVRgo-Infinity, but in it's 
   - Maximum Range: 40 meters
   - Operating Current: 15mA
   - Sleep Current: 25nA
-  - Baud Rate: 1200-1000000 bits-per-second
+  - Baud Rate: 1200bps-1Mbps
 
 # Installing AVRgo in the Arduino IDE
 - Open the Arduino IDE
