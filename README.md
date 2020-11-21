@@ -11,11 +11,11 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 - Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
 - Integrated RGB LED allows for a customized look, as well as displaying information visually
 - More on-board features, along with an extensive library allows for much greater capabilies than other developement boards, while requiring much less effort and/or experience.
-- The internal LiPo battery with built-in charger provides more than enough power for most projects, wherever you need it.
+- The internal 3000mAh LiPo battery with built-in charger provides more than enough power for most projects, wherever you need it.
 - Triple Battery Protection Circuit allows for safe and optimal use of the LiPo battery by even the most inexperienced users.
   - Redundant Low Voltage Cutoff ensures the battery never drops to an unsafe voltage.
   - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
-  - Safe Storage Zener diode automatically prevents the battery from being maintained above the Safe Storage Window (3.3-3.8V) for more than 48 hours (when not plugged in), by slowly draining current when voltage is above 3.8V (±2%).
+  - Safe Storage Zener diode automatically prevents the battery from being maintained above the Safe Storage Window (3.6-3.9V) for more than 12 hours (when not plugged in), by slowly draining current when voltage is above 3.9V (±2%).
 - LiPo Self-Discharge rate is less than 1% per month when within the Safe Storage Window
 - Integrated charging LEDs let you know when the battery is fully charged
 - 3.3V regulated operating voltage.
