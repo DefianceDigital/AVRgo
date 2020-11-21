@@ -35,7 +35,7 @@ Anticipated Release Date: February 2022
 #### AVRgo-SerialBTx
 *Anticipated Launch Date: February 12th, 2021*
 
-The AVRgo-SerialBTx is the Bluetooth portion of the AVRgo-Infinity, but in it's own high-performance module. Not only can it wirelessly upload sketches to virtually any Arduino with a serial bootloader, but it can do just about anything you could ever want from a Bluetooth module. We worked very dilligently to be able to say with confidence that this is the best all-around Bluetooth module on the market. Suitable for use with Windows, Linux, Apple, Android and IOS. A short listing of features and specifications are as follows...
+The AVRgo-SerialBTx is the Bluetooth portion of the AVRgo-Infinity, but in it's own high-performance module. Not only can it wirelessly upload sketches to virtually any Arduino with a serial bootloader, but it can do just about anything you could ever want from a Bluetooth module. It's industry-lowest sleep current of just 25nA makes it exceptionally well suited to battery powered applications. We worked very dilligently to be able to say with confidence that this is the best all-around Bluetooth module on the market. Suitable for use with Windows, Linux, Apple, Android and IOS. A short listing of features and specifications are as follows...
 - Simple to setup and operate
 - Can be connected with up to 8 different devices simultaneuosly
 - Compatible with all SPP slave devices (HC-05, HC-06, JDY-31, etc.)
