@@ -29,8 +29,8 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 - 4kB EEPROM
 
 #### AVRgo-Beyond
-Anticipated Release Date: Beginning of 2022
-- All the features of the AVRgo-Infinity, but 4X faster with double the flash
+Anticipated Release Date: February 2022
+- All the same features of the AVRgo-Infinity, but 4X faster and double the flash
 
 ## AVRgo Programmers
 #### AVRgo-SerialBTx
