@@ -19,7 +19,7 @@ The AVRgo-Infinity originated with two primary goals. To be completely cordless 
 - LiPo Self-Discharge rate is less than 1% per month when within the Safe Storage Window
 - Integrated charging LEDs let you know when the battery is fully charged
 - 3.3V regulated operating voltage.
-- Up to 200mA output current by default, with an additional 500mA available on-board by soldering the Boost jumper pads closed.
+- Up to 200mA output current on-board with an additional 500mA available by connecting the Current Expansion Board (included).
 - Sleep current as low as 1uA (most of which is the battery protection circuit)
 - JTAG funtionality (fuse set to disable by default)
 - 8mHz internal clock with convenient external clock capabilities
