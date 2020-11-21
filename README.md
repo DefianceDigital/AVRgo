@@ -1,7 +1,5 @@
-<meta name="google-site-verification" content="CC3mBGmGaKgcc8zJlL_cZCMN4pPyxkEBet_8YYmhloI" />
-
-# AVRgo Boards and Programmers
-AVRgo is a family of boards designed for on-the-go and in-the-field applications. Their bluetooth capability allows sketches to be uploaded and debugged via a multitude of devices without using wires, eg computer, smartphone, tablet, etc. The AVRgo-SerialBTx is a bluetooth programmer/debugger designed to give these capabilities to virtually all Arduino compatible AVRs that use a serial bootloader.
+//# AVRgo Boards and Programmers
+//AVRgo is a family of boards designed for on-the-go and in-the-field applications. Their bluetooth capability allows //sketches to be uploaded and debugged via a multitude of devices without using wires, eg computer, smartphone, tablet, etc. //The AVRgo-SerialBTx is a bluetooth programmer/debugger designed to give these capabilities to virtually all Arduino //compatible AVRs that use a serial bootloader.
 
 ## AVRgo Boards
 #### AVRgo-Infinity
