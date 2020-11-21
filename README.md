@@ -3,7 +3,7 @@ AVRgo is a family of boards designed for on-the-go and in-the-field applications
 
 ## AVRgo Boards
 #### AVRgo-Infinity
-*Anticipated Release Date: February 13th, 2021*
+*Anticipated Launch Date: February 12th, 2021*
 
 The AVRgo-Infinity originated with two primary goals. To be completely cordless and to be a board built with EVERYBODY in mind. It's not a design for beginners or for advanced users. It's a design that grows with you, from beginner to advanced user and can be picked up anywhere in between. Whether your're designing the next wearable device, an AVR-based handheld gaming system, or just learning how to turn on LEDs; The AVRgo-Infinity is designed for you. The library we developed to accompany this board is extensive, and it makes complicated tasks incredibly easy.
 - Dual Bootloader allows for uploading sketches via Micro-SD Card, or directly from the Arduino IDE over Bluetooth.
@@ -36,8 +36,11 @@ Anticipated Release Date: February 2022
 
 ## AVRgo Expansion Modules
 #### AVRgo-SerialBTx
-The AVRgo-SerialBTx is a bluetooth programmer/debugger that allows virtually any Arduino Compatible Development Board to essentially become an AVRgo. A short listing of features and specifications are as follows...
+*Anticipated Launch Date: February 12th, 2021*
+
+The AVRgo-SerialBTx is a bluetooth programmer/debugger that is essentially . A short listing of features and specifications are as follows...
 - Ability to upload sketches via bluetooth to virtually any AVR based development board with a serial bootloader, using a computer, phone or tablet
+- Reset pin automatically resets the target board upon connecting/uploading
 - Ability to run Serial Monitor wirelessly, makes debugging a breeze
 - Supports 3.3V or 5V operating voltage
 - Simple to setup and operate
