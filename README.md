@@ -38,16 +38,20 @@ Anticipated Release Date: February 2022
 #### AVRgo-SerialBTx
 *Anticipated Launch Date: February 12th, 2021*
 
-The AVRgo-SerialBTx is the Bluetooth portion of the AVRgo-Infinity, but in it's own high-performance module. Not only can it wirelessly upload sketches to virtually any Arduino with a serial bootloader, but it can do just about anything you could ever want from a Bluetooth module. We worked very dilligently to be able to say with confidence that this is the best all-around Bluetooth module on the market. A short listing of features and specifications are as follows...
-- Reset pin automatically resets the target board upon connecting/uploading
+The AVRgo-SerialBTx is the Bluetooth portion of the AVRgo-Infinity, but in it's own high-performance module. Not only can it wirelessly upload sketches to virtually any Arduino with a serial bootloader, but it can do just about anything you could ever want from a Bluetooth module. We worked very dilligently to be able to say with confidence that this is the best all-around Bluetooth module on the market. Suitable for use with Windows, Linux, Apple, Android and IOS. A short listing of features and specifications are as follows...
 - Simple to setup and operate
-- Communication Interface: UART (serial)
-- Operating Mode: Dual-Mode (SPP/BLE)
-- Role: Master/Slave
-- Working Voltage: 3.3V-5V
-- Maximum Range: 40 meters
-- Operating Current: 15mA
-- Sleep Current: 25nA
+- Can be connected with up to 8 different devices simultaneuosly
+- Compatible with all SPP slave devices (HC-05, HC-06, JDY-31, etc.)
+- Reset pin automatically resets the target board upon connecting/uploading
+- Specifications:
+  - Communication Interface: UART (Serial)
+  - Operating Mode: Dual-Mode (SPP/BLE)
+  - Role: Master/Slave
+  - Working Voltage: 3.3V-5V
+  - Maximum Range: 40 meters
+  - Operating Current: 15mA
+  - Sleep Current: 25nA
+  - Baud Rate: 1200-1000000 bits-per-second
 
 # Installing AVRgo in the Arduino IDE
 - Open the Arduino IDE
