@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="OwBoEzxxLcSNg_P755bG16NRJpBn50BMcT49qGcZZ0c" />
+
 ## AVRgo Boards
 #### AVRgo-Infinity
 *Anticipated Launch Date: February 12th, 2021*
