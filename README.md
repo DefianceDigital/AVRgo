@@ -2,7 +2,7 @@
 #### AVRgo-Infinity
 *Anticipated Launch Date: February 12th, 2021*
 
-The AVRgo-Infinity originated with one primary goal: To be a development board that can go anywhere, do anything, and be used by anybody. Whether your're creating the next hit wearable, an AVR-based handheld gaming system, a stationary project, or just learning how to turn on LEDs; this board was designd for you. The library we developed to accompany this board is extensive, and it makes complicated tasks incredibly easy. It is the virtually indestructable Swiss Army Knife of development boards. It's the AVRgo-Infinity.
+The AVRgo-Infinity originated with one primary goal: To be a development board that can go anywhere, do anything, and be used by anybody. Whether your're creating the next hit wearable, an AVR-based handheld gaming system, a stationary project, or just learning how to turn on LEDs; this board was designd for you. The library we developed to accompany this board is extensive, and it makes complicated tasks incredibly easy. It's the rechargable and virtually indestructable Swiss Army Knife of development boards.
 - Dual Bootloader allows for uploading sketches via Micro-SD Card, or directly from the Arduino IDE over Bluetooth.
 - The Bluetooth Electronics App allows you to control your AVRgo-Infinity and select sketches via any android device (examples provided).
 - The ArduinoDroid App allows you to compile and upload sketches directly from any Android device (under development)
@@ -10,15 +10,15 @@ The AVRgo-Infinity originated with one primary goal: To be a development board t
 - Built in Micro-SD card slot with BinStacking capabilities (flashing sketches via Serial Command Line or from within another sketch)
 - Integrated RGB LED allows for a customized look, as well as displaying information visually
 - More on-board features, along with an extensive library allows for much greater capabilies than other developement boards, while requiring much less effort and/or experience.
-- The available internal LiPo battery with built-in charger provides all the power you need, wherever you need it.
-  - The DIY Platform does not include internal LiPo Battery
+- The built-in charger and available internal LiPo provide all the power you need, wherever you need it.
+  - The DIY Platform does not include an internal LiPo Battery
   - The Mover Platform includes internal 1000mAh LiPo Battery
   - The Maker Platform includes internal 3000mAh LiPo Battery
 - Triple Battery Protection Circuit allows for optimal use of the LiPo battery by even the most inexperienced users.
-  - Redundant Low Voltage Cutoff ensures the battery never drops to a damaging voltage.
+  - Redundant Low Voltage Cutoff ensures the battery never drops to a damaging level.
   - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
   - Immediately following a complete charge, the charging circuit is disabled and battery will begin to drain to Optimal Maximum Voltage of 3.9V (if left plugged in)
-- Unlike most LiPo-based pruducts, the AVRgo-Infinity can be left plugged in indefinitely without damage, due to its battery protection circuit.
+- Unlike most LiPo-based pruducts, the AVRgo-Infinity can be left plugged in indefinitely without damage, due to its unique battery protection circuit.
 - LiPo Self-Discharge rate is less than 1% per month when within the Safe Storage Window
 - Integrated charging LEDs let you know when the battery is fully charged
 - 3.3V regulated operating voltage.
