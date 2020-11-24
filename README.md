@@ -19,7 +19,7 @@ The AVRgo-Infinity originated with one primary goal: To be a development board t
   - 900/1800mA Polyfuse disconnects the battery if current is exessively high (such as a short to ground) and can be reset by turning the board off for a few seconds.
   - Immediately following a complete charge, the charging circuit is disabled and battery will begin to drain to Optimal Maximum Voltage of 3.9V (if left plugged in)
 - Unlike most LiPo-based pruducts, the AVRgo-Infinity can be left plugged in indefinitely without damage, due to its unique battery protection circuit.
-- LiPo Self-Discharge rate is less than 1% per month when within the Optimal Voltage Window (can run for years on a single charge, right out of the box)
+- LiPo Self-Discharge rate is less than 1% per month when within the Optimal Voltage Window (can run for years on a single charge)
 - Integrated charging LEDs let you know when the battery is fully charged
 - 3.3V regulated operating voltage.
 - Up to 200mA output current on-board, with an additional 500mA available by connecting the Current-Expansion board (included standard).
