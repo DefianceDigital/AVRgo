@@ -12,15 +12,15 @@
         {
           "name": "AVRgo",
           "architecture": "avr",
-          "version": "2.1.3",
+          "version": "2.1.4",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/DefianceDigital/AVRgo"
           },
-          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.1.3.zip",
-          "archiveFileName": "AVRgo-2.1.3.zip",
-          "checksum": "SHA-256:CCD166741CCDBEB576B3768A855BBD88FEA7A9AF7185B234CAE9E806180C10B0",
-          "size": "3891774",
+          "url": "https://github.com/DefianceDigital/AVRgo/raw/master/AVRgo-2.1.4.zip",
+          "archiveFileName": "AVRgo-2.1.4.zip",
+          "checksum": "SHA-256:F3B6A60F1B306AB6817A8F285F1D2BC728627E8460800B0BE8E3D8E98FB6734E",
+          "size": "3904167",
           "boards": [
             {"name": "AVRgo-Infinity"}
           ],
